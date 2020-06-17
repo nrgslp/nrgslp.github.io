@@ -15,6 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Publications In Press
+-----
+{% for post in site.publicationsinpress reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+Publications Under Review
+-----
+{% for post in site.publicationsunderreview reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Publications 
 ======
 **Benway, N. R.**, & Preston, J. L. (2020). Differences Between School-Aged Children with Apraxia of Speech and Other Speech Sound Disorders on Multisyllable Repetition. Perspectives of the ASHA Special Interest Groups: Advances in Research and Clinical Management of CAS Forum.  
