@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,5 +25,6 @@ Master of Science in Education, Communication Sciences and Disorders
 
 Cornell University, 2008  
 Bachelor of Arts, Linguistics
+
 
 
