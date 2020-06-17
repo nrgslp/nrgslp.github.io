@@ -11,14 +11,14 @@ I practiced for six years as a speech-language pathologist and teacher of the gi
 My clinical work combined best practices from these two domains to meet the needs of all students, including twice-exceptional students with disparate areas of talent and need. 
 As the creator and director of this differentiated educational program at an independent school, I was responsible for the following:
 
-### Case management:
+### Case Management:
 *Oversaw the education of all students in the building.  
 *Monitored total IEP/504 implementation, oversaw student services for quality control and communication across different providers, ensured proper communication with parents.  
 *Acted as a liaison between family, school, the district of residence, and the district of location.  
 *Notified all staff interacting with students about their individual responsibilities.  
 *Ensured that all students received appropriate accommodations and modifications.  
 
-### Personnel Oversight:
+### Personnel Director:
 *Curation and management of a multidiciplinary team of service providers.  
   *Literacy specialists  
   *Classroom enrichment specialists  
