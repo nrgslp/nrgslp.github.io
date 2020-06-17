@@ -5,37 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-Publications In Press
------
-{% for post in site.publicationsinpress reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-Publications Under Review
------
-{% for post in site.publicationsunderreview reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-Publications 
-======
 **Benway, N. R.**, & Preston, J. L. (2020). Differences Between School-Aged Children with Apraxia of Speech and Other Speech Sound Disorders on Multisyllable Repetition. Perspectives of the ASHA Special Interest Groups: Advances in Research and Clinical Management of CAS Forum.  
 
-Publications In Press
-======
+### Publications In Press
+
 Preston, J. L., **Benway, N. R.**, Leece, M., Hitchcock, E., & McAllister, T. (In Press). Tutorial: Motor-based Treatment Strategies for /r/ Distortions. Language, Speech, and Hearing Services in Schools.  
 
-Publications Under Review  
-======
+### Publications Under Review  
+
 Preston, J.L., **Benway, N.R.**, Leece, M.C., & Caballero, N. (submitted). Diagnostic agreement between two sound sequencing tasks used to identify childhood apraxia of speech in school-age children. American Journal of Speech-Language Pathology.  
 
 
