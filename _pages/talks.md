@@ -23,7 +23,7 @@ Alfonso, V., Shanock, A., Muldoon, D., **Benway, N.**, & Oades-Sese, G. (2018, M
 
 Hertz, S., Gibson, M., **Glatthorn, N.**, Hegde, P., Mills, H., and Spencer, I. (2008, April). The Role of Prosody in Speech Parsing. Poster Presentation at Experimental and Theoretical Advances in Prosody, Ithaca, New York.  
 
-### Invited Speaking Engagements
+### Talks
 
 Invited Co-Speaker, NSSLHA Professional Development at The College of Saint Rose. Albany, NY. 2017  
 ·Two-hour seminar with Anne Rowley, PhD CCC-SLP: Accents and Dialects: From Phonetics to Assessment.
