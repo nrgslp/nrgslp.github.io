@@ -17,7 +17,7 @@ CSD 219: **Speech Sound Disorders**. The College of Saint Rose. 2017–2018
 
 CSD 472/548: **Augmentative and Alt. Communication**. The College of Saint Rose. 2014    
 
-### Clinical Supervision  
+## Clinical Supervision  
 
 CSD 589: Specialty Practicum. **Articulation Camp Supervisor**. The College of Saint Rose. 2019
 
