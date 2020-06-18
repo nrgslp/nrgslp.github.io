@@ -9,8 +9,10 @@
     background-color:#d3d3d3;
     padding: 2px;
     cursor: pointer;
+    position: fixed;
     font-weight: bold;
 }
 .container .content {
     display: none;
+    margin-top: 100px;
     padding : 5px;
