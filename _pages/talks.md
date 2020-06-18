@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Posters and Presentations  
+## Posters and Presentations  
 
 **Benway, N. R.**, Campeas, R., & Preston, J. (2019, November). Predicting CAS Diagnosis from Multisyllabic Word Repetitions in School-Age Children. Poster session presented at the meeting of the Convention of the American Speech-Language-Hearing Association, Orlando, Florida.  
 
@@ -23,7 +23,7 @@ Alfonso, V., Shanock, A., Muldoon, D., **Benway, N.**, & Oades-Sese, G. (2018, M
 
 Hertz, S., Gibson, M., **Glatthorn, N.**, Hegde, P., Mills, H., and Spencer, I. (2008, April). The Role of Prosody in Speech Parsing. Poster Presentation at Experimental and Theoretical Advances in Prosody, Ithaca, New York.  
 
-### Talks
+## Talks
 
 Invited Co-Speaker, NSSLHA Professional Development at The College of Saint Rose. Albany, NY. 2017  
 ·Two-hour seminar with Anne Rowley, PhD CCC-SLP: Accents and Dialects: From Phonetics to Assessment.
