@@ -7,22 +7,22 @@ author_profile: true
 
 I have served as instructor of record in 5 classes, most meeting semesterly or thrice per year, during my 5 years of experience as an adjunct instructor, visiting faculty member, and clinical supervisor. I have taught over 490 undergraduate and graduate students, typically in small groups of around 20.  
 
-CSD 594: Clinical Speech Sound Disorders. The College of Saint Rose. 2018–2019  
+CSD 594: **Clinical Speech Sound Disorders**. The College of Saint Rose. 2018–2019  
 
-CSD 109: Phonetics. The College of Saint Rose. 2014 – 2019     
+CSD 109: **Phonetics**. The College of Saint Rose. 2014 – 2019     
 
-CSD 316/616: Introduction to Applied Phonetics. Syracuse University. 2018    
+CSD 316/616: **Introduction to Applied Phonetics**. Syracuse University. 2018    
 
-CSD 219: Speech Sound Disorders. The College of Saint Rose. 2017–2018    
+CSD 219: **Speech Sound Disorders**. The College of Saint Rose. 2017–2018    
 
-CSD 472/548: Augmentative and Alt. Communication. The College of Saint Rose. 2014    
+CSD 472/548: **Augmentative and Alt. Communication**. The College of Saint Rose. 2014    
 
 ### Clinical Supervision  
 
-CSD 589: Specialty Practicum. Articulation Camp Supervisor. The College of Saint Rose. 2019
+CSD 589: Specialty Practicum. **Articulation Camp Supervisor**. The College of Saint Rose. 2019
 
-Clinical Fellowship Supervisor, Schenectady, New York.	2017– 2018
+**Clinical Fellowship Supervisor**, Schenectady, New York.	2016– 2018
 
-CSD 580: First Practicum. Evaluation Team Supervisor. The College of Saint Rose. 2017
+CSD 580: First Practicum. **Evaluation Team Supervisor**. The College of Saint Rose. 2017
    
-CSD 587: School Practicum. Field Supervisor. The College of Saint Rose. 2014 – 2017
+CSD 587: School Practicum. **Field Supervisor**. The College of Saint Rose. 2014 – 2017
