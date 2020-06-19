@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+
 **Syracuse University**, Expected 2023  
 PhD Student, Communication Sciences and Disorders
 
@@ -26,5 +26,6 @@ Master of Science in Education, Communication Sciences and Disorders
 **Cornell University**, 2008  
 Bachelor of Arts, Linguistics
 
+## Additional Training
 
-
+ASHA Leadership Development Program: Schools Cohort. 2015-2016
