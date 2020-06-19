@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have served as instructor of record in 5 classes, most meeting semesterly or thrice per year, during my 5 years of experience as an adjunct instructor, visiting faculty member, and clinical supervisor. I have taught over 490 undergraduate and graduate students, typically in small groups of around 20.  
+During my 5.5 years of experience as an adjunct instructor, visiting faculty member, and clinical supervisor I have served as instructor of record for 5 classes, most meeting semesterly or thrice per year. I have taught over 490 undergraduate and graduate students typically in small groups of around 20.  
 
 CSD 594: **Clinical Speech Sound Disorders**. The College of Saint Rose. 2018–2019  
 
