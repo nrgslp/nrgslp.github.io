@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 I practiced for six years as a speech-language pathologist and teacher of the gifted and talented before pursuing a doctorate. 
-My clinical work combined best practices from these two domains to meet the needs of all students, including twice-exceptional students with disparate areas of talent and need. 
-As the founder and director of this differentiated educational program, I was personally responsible for the creation and implementation of the following at an independent school (Nursery-High School):
+My clinical work combined best practices from these two domains to meet the needs of all students, including twice-exceptional students with disparate areas of talent and need at an nursery-high school independent school in New York State. 
+As the founder and director I was personally responsible for the creation and implementation of the following components of a differentiated educational program:
 
 ## Case Management:
 * Oversaw the education of all students in the building.  
