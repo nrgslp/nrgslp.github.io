@@ -19,7 +19,7 @@ As the founder and director of this differentiated educational program, I was pe
 * Ensured that all students received appropriate accommodations and modifications.  
 
 ## Personnel Director:
-* Curation and management of a multidiciplinary team of service providers.  
+* Curated and managed a multidiciplinary team of service providers providing direct and indirect service to children on caseload.  
   * Literacy specialists  
   * Classroom enrichment specialists  
   * Speech-language pathologists  
@@ -32,7 +32,7 @@ As the founder and director of this differentiated educational program, I was pe
   * Aural rehabilitation (including speech reading, communication strategies, phonetic awareness, and hearing aid maintenance)  
 
 ## Consultation:
-* Met with teachers to provide instruction in targeted best practices in both support and enrichment in order to reach the greatest number of students as well as maintain the least restrictive environment – the grade level classroom.  
+* Guided teachers to provide instruction in targeted best practices in both support and enrichment in order to reach the greatest number of students as well as maintain the least restrictive environment – the grade level classroom.  
 
 ## Curriculum Planning:
 * Directed implementation of a social-emotional learning curriculum, STEM programming, and a social entrepreneurship curriculum at the school.  
