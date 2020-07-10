@@ -7,6 +7,12 @@ author_profile: true
 
 ## Posters and Presentations  
 
+Leece, M., **Benway, N. R.**, McAllister, T., & Preston, J. (2020, November). Try it for six sessions: Using machine learning to predict outcomes of SSD treatment. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, San Diego, CA (Convention canceled).
+
+Caballero, N., Leece, M., **Benway, N. R.**, Preston, J. (2020, November). 10972: Measuring Features of CAS in School-Age Children: A Reliability Study. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, San Diego, CA (Convention canceled).
+
+**Benway, N. R.**, McAllister, T., Hitchcock, El, Preston, J. (2020, November). 10325: Single Case Experimental Comparison of Biofeedback Types for Children with Residual Speech Sound Errors Impacting /ɹ/. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, San Diego, CA (Convention canceled).
+
 **Benway, N. R.**, Campeas, R., & Preston, J. (2019, November). Predicting CAS Diagnosis from Multisyllabic Word Repetitions in School-Age Children. Poster session presented at the meeting of the Convention of the American Speech-Language-Hearing Association, Orlando, Florida.  
 
 **Benway, N. R.**, Campeas, R., & Preston, J. (2019, May). Differentiating Subtypes of Speech Sound Disorders Using Multisyllabic Word Repetitions. Presentation at the International Child Phonology Conference, Montreal, Quebec, Canada.  
