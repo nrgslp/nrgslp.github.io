@@ -9,6 +9,6 @@ author_profile: true
 
 ## Publications In Press
 
-Preston, J.L., **Benway, N.R.**, Leece, M.C., Hitchcock, E., & McAllister, T. (In Press). Tutorial: Motor-based Treatment Strategies for /r/ Distortions. _Language, Speech, and Hearing Services in Schools_.  
+Preston, J.L., **Benway, N.R.**, Leece, M.C., Hitchcock, E., & McAllister, T. (in press). Tutorial: Motor-based Treatment Strategies for /r/ Distortions. _Language, Speech, and Hearing Services in Schools_.  
 
 Preston, J.L., **Benway, N.R.**, Leece, M.C., & Caballero, N.F. (in press). Concurrent validity between two sound sequencing tasks used to identify childhood apraxia of speech in school-age children. _American Journal of Speech-Language Pathology_.
