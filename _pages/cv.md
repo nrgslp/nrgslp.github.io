@@ -26,7 +26,7 @@ Master of Science in Education, Communication Sciences and Disorders
 **Cornell University**, 2008  
 Bachelor of Arts, Linguistics
 
-## Additional Training
+## Additional Selective Training Programs
 
 Women in Science and Engineering: Future Professionals Program. Syracuse University. 2020-2022
 
