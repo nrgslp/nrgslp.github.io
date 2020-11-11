@@ -28,4 +28,7 @@ Bachelor of Arts, Linguistics
 
 ## Additional Training
 
-ASHA Leadership Development Program: Schools Cohort. 2015-2016
+Women in Science and Engineering: Future Professionals Program. Syracuse University. 2020-2022
+
+
+Leadership Development Program: Schools Cohort. American Speech-Language-Hearing Association. 2015-2016
