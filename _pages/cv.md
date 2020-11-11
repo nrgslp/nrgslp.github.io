@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-**Syracuse University**, Expected 2023  
+**Syracuse University**, Anticipated 2023  
 PhD Student, Communication Sciences and Disorders
 
 
@@ -26,7 +26,7 @@ Master of Science in Education, Communication Sciences and Disorders
 **Cornell University**, 2008  
 Bachelor of Arts, Linguistics
 
-## Additional Selective Training Programs
+## Selective Training Programs
 
 Women in Science and Engineering: Future Professionals Program. Syracuse University. 2020-2022
 
