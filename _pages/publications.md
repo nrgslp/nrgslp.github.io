@@ -6,7 +6,7 @@ author_profile: true
 ## Publications In Press
 ---
 
-**Benway, N.R**, Hitchcock, E. R., McAllister, T., Feeney, G. T., Hill, J., & Preston, J. L. Comparing Biofeedback Types for Children With Residual /ɹ/ Errors in American English: A Single-Case Randomization Design. _American Journal of Speech-Language Pathology_. [doi](https://doi.org/10.1044/2021_AJSLP-20-00216)
+**Benway, N.R**, Hitchcock, E. R., McAllister, T., Feeney, G. T., Hill, J., & Preston, J. L. (2021). Comparing Biofeedback Types for Children With Residual /ɹ/ Errors in American English: A Single-Case Randomization Design. _American Journal of Speech-Language Pathology_. [doi](https://doi.org/10.1044/2021_AJSLP-20-00216)
 
 Preston, J.L., **Benway, N.R.**, Leece, M.C., & Caballero, N.F. (2021). Concurrent validity between two sound sequencing tasks used to identify childhood apraxia of speech in school-age children. _American Journal of Speech-Language Pathology_. [doi](https://doi.org/10.1044/2020_AJSLP-20-00108)
 
