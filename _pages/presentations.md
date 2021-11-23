@@ -7,6 +7,14 @@ author_profile: true
 
 ## Posters and Presentations  
 
+**Benway, N. R.**, McAllister, T., Hitchcock, E., & Preston, J. L. (2021, November). Single Case Experimental Comparison of Biofeedback Types for Children with Residual Speech Sound Errors Impacting /ɹ/. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C.
+
+**Benway, N. R**. Owens, R., & Pavelko, S. (2021, November). Introducing SPOON: Automated SUGAR Language Sample Analysis. Poster accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C. 
+
+Caballero, N., **Benway, N. R.**, Leece, M., McNamara, K., Preston, J. L. (2021, November). Massed Versus Distributed Treatment via Teletherapy for School-age Children with Childhood Apraxia of Speech. Poster accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C.
+
+McAllister, T., Hitchcock, E.R., **Benway, N.R.**, Ochs, L., Leece, M., Preston, J. L. (2021, November). Telepractice Delivery of Traditional and Visual-Acoustic Biofeedback Treatment for Residual Speech Errors Affecting /r/. Poster accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C.
+
 **Benway, N. R.**, McAllister, T., Hitchcock, E., & Preston, J. (2020, November). 10325: Single Case Experimental Comparison of Biofeedback Types for Children with Residual Speech Sound Errors Impacting /ɹ/. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, San Diego, CA (Convention cancelled).
 
 Leece, M., **Benway, N. R.**, McAllister, T., & Preston, J. (2020, November). Try it for six sessions: Using machine learning to predict outcomes of SSD treatment. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, San Diego, CA (Convention cancelled).
