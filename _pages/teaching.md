@@ -26,3 +26,9 @@ CSD 589: Specialty Practicum. **Articulation Camp Supervisor**. The College of S
 CSD 580: First Practicum. **Evaluation Team Supervisor**. The College of Saint Rose. 2017
    
 CSD 587: School Practicum. **Field Supervisor**. The College of Saint Rose. 2014 – 2017
+
+## Institutional Service
+
+Student Representative, Laura J. & L. Douglas Meredith Professorship Nomination Review Committee. Syracuse University.	2021-2022
+
+CSD Curriculum Committee. The College of Saint Rose. 	2017-2018
