@@ -29,6 +29,8 @@ Bachelor of Arts, Linguistics
 
 ## Honors and Awards
 
+Graduate Dean’s Award for Excellence in Research and Creative Work. Syracuse University. 2022
+
 New Century Scholars Doctoral Scholarship. American Speech Language Hearing Foundation. 2021
 
 
