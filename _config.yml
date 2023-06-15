@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nina R Benway MS CCC-SLP"
+title                    : "Nina R Benway PhD CCC-SLP"
 title_separator          : "-"
 name                     : &name "Nina R Benway"
-description              : &description "I research treatment outcomes in children with speech sound disorders using biofeedback approaches, and I develop algorithmic tools to help with the large-scale analysis of acoustic data."
+description              : &description "I engineer theory-driven clinical artificial intelligence speech technologies to improve access to speech-language therapy, and I test how well these speech technologies work using clinical trial experimental designs."
 url                      : https://nrgslp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nrgslp/nrgslp.github.io"
