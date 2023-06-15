@@ -6,10 +6,17 @@ author_profile: true
 ---
 
 ## Posters and Presentations  
+*Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under* Publications.
 
-**Benway, N. R.**, McAllister, T., Hitchcock, E., & Preston, J. L. (2021, November). Single Case Experimental Comparison of Biofeedback Types for Children with Residual Speech Sound Errors Impacting /ɹ/. Proposal accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C.
+**Benway, N. R.**, Preston, J. L. (2023, June). Single Case Experimental Clinical Validation of an Artificial-Intelligence-Assisted Intervention for /ɹ/. Boston Speech Motor Control Symposium, Boston, MA.
 
-**Benway, N. R**. Owens, R., & Pavelko, S. (2021, November). Introducing SPOON: Automated SUGAR Language Sample Analysis. Poster accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C. 
+**Benway, N. R.**, Preston, J. L., Hitchcock, E., Salekin, A., Sharma, H.,  Rose, Y., McAllister, T. (2022, November). 4560: PERCEPT-R and PERCEPT-GFTA: Two Artificial Intelligence-Ready Speech Corpora Focusing on Residual Speech Sound Disorders. Annual Convention of the American Speech-Language-Hearing Association, New Orleans, L.A.
+
+Wruck, C., **Benway, N. R.**, Preston., J., & Munson, B. (2022, November). Social Biases in the Assessment of /s/ Accuracy. Annual Convention of the American Speech-Language-Hearing Association, New Orleans, L.A.
+
+**Benway, N. R.**, McAllister, T., Hitchcock, E., & Preston, J. L. (2021, November). 10325: Single Case Experimental Comparison of Biofeedback Types for Children with Residual Speech Sound Errors Impacting /ɹ/. Annual Convention of the American Speech-Language-Hearing Association, Washington D.C.
+
+**Benway, N. R.** Owens, R., & Pavelko, S. (2021, November). 8521V: Introducing SPOON: Automated SUGAR Language Sample Analysis. Annual Convention of the American Speech-Language-Hearing Association, Washington D.C. 
 
 Caballero, N., **Benway, N. R.**, Leece, M., McNamara, K., Preston, J. L. (2021, November). Massed Versus Distributed Treatment via Teletherapy for School-age Children with Childhood Apraxia of Speech. Poster accepted at the Annual Convention of the American Speech-Language-Hearing Association, Washington D.C.
 
