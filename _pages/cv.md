@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-**Syracuse University**, Anticipated 2023  
-PhD Candidate, Communication Sciences and Disorders
+**Syracuse University**, 2023  
+PhD, Communication Sciences and Disorders, Concentration in Neuroscience
 
 
 **The State University of New York at Buffalo**, 2013  
@@ -29,19 +29,21 @@ Bachelor of Arts, Linguistics
 
 ## Honors and Awards
 
+ISCA Travel Award, INTERSPEECH Dulin. 2023.
+
+All-University Doctoral Prize. Syracuse University.	2023
+
+Research Excellence Doctoral Funding Fellowship. Syracuse University. 2022-2023
+
 Graduate Dean’s Award for Excellence in Research and Creative Work. Syracuse University. 2022
 
 New Century Scholars Doctoral Scholarship. American Speech Language Hearing Foundation. 2021
 
-
 Graduate Student Scholarship. American Speech Language Hearing Foundation. 2020
-
 
 Meritous Poster: Measuring Features of CAS in School-Age Children: A Reliability Study. Annual Convention of the American Speech-Language-Hearing Association. 2020
 
-
 Dr. Rosemary S. Callard-Szulgit Gifted Education Student Award. Graduate School of Education, University at Buffalo. 2018
-
 
 Alumna of Excellence. Communication Sciences and Disorders Department, The College of Saint Rose.	2017
 
