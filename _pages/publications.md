@@ -16,7 +16,7 @@ Preston, J.L., Leece, M.C., Cabellero, N.F., Wang, D.L., Herbst, B.H.,  and **Be
 
 Coretta, S., Dokovova, M., Mridhula, M., and the **Open Science Framework Research Group**. (in press). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses. *Advances in Methods and Practices in Psychological Science. *
 
-**Benway, N. R.**, Preston, J. L., Hitchcock, E. R., Rose, Y., Salekin, A., Liang, W., & McAllister, T. (in press). Reproducible Speech Research with the Artificial-Intelligence-Ready PERCEPT Corpora. *Journal of Speech, Language, and Hearing Research.*
+**Benway, N. R.**, Preston, J. L., Hitchcock, E. R., Rose, Y., Salekin, A., Liang, W., & McAllister, T. (2023). Reproducible Speech Research with the Artificial-Intelligence-Ready PERCEPT Corpora. *Journal of Speech, Language, and Hearing Research.* [doi](https://doi.org/10.1044/2023_JSLHR-22-00343)
 
 **Benway, N.R.**, Preston, J.L., Hitchcock, E, Salekin, A. Sharma, H., & McAllister, T. (2022). PERCEPT-R: An Open-Access American English Child/Clinical Speech Corpus Specialized for the Audio Classification of /ɹ/. *INTERSPEECH 2022: Proceedings of the 23rd Annual Conference of the International Speech Communication Association (ISCA), Incheon, Republic of Korea.*
 
