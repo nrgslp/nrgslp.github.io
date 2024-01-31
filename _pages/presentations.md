@@ -8,6 +8,14 @@ author_profile: true
 ## Posters and Presentations  
 *Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under* Publications.
 
+Berisha, V., Hustad, K., Scherer, N., and **Benway, N. R.** (2023, Nov). Clinical Speech Analytics for Pediatric Populations: Applications to Cerebral Palsy and Cleft Lip/Palate. Invited 60-minute seminar by the Speech and Language Science topic committee at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.
+
+**Benway, N. R.**, Leece, M., Caballero, N., Beiting, M., Herbst, B., & Preston, J. (2023, Nov). Put your Speech Sound Therapy on Autopilot: A User's Guide to Evidence-Based Speech Motor Chaining. 30-minute technical clinical session at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.
+
+**Benway, N. R.** & Preston, J.L (2023, Nov). Artificial Intelligence in your Clinical Toolbox: Preparing SLPs for a Future of AI-Assisted Evidence-Based Practice.  60-minute oral seminar at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.
+
+Preston, J., Caballero, N., Leece, M., & **Benway, N. R.** (2023, Nov). Improving Outcomes in School-Aged Childhood Apraxia of Speech with Treatment Distribution and Biofeedback: An RCT.  60-minute oral seminar at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA
+
 **Benway, N. R.**, Preston, J. L. (2023, June). Single Case Experimental Clinical Validation of an Artificial-Intelligence-Assisted Intervention for /ɹ/. Boston Speech Motor Control Symposium, Boston, MA.
 
 **Benway, N. R.**, Preston, J. L., Hitchcock, E., Salekin, A., Sharma, H.,  Rose, Y., McAllister, T. (2022, November). 4560: PERCEPT-R and PERCEPT-GFTA: Two Artificial Intelligence-Ready Speech Corpora Focusing on Residual Speech Sound Disorders. Annual Convention of the American Speech-Language-Hearing Association, New Orleans, L.A.
