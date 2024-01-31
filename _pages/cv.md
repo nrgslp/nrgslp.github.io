@@ -29,6 +29,10 @@ Bachelor of Arts, Linguistics
 
 ## Honors and Awards
 
+(Two) Changemaker Awards, ASHA Convention. 2023.
+
+RMPTA Award for Artificial Intelligence in CSD Research Symposium, ASHA Convention. 2023.
+
 ISCA Travel Award, INTERSPEECH Dulin. 2023.
 
 All-University Doctoral Prize. Syracuse University.	2023
@@ -51,6 +55,5 @@ Alumna of Excellence. Communication Sciences and Disorders Department, The Colle
 ## Selective Training Programs
 
 Women in Science and Engineering: Future Professionals Program. Syracuse University. 2020-2022
-
 
 Leadership Development Program: Schools Cohort. American Speech-Language-Hearing Association. 2015-2016
