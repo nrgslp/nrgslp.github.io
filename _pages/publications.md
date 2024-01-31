@@ -5,16 +5,17 @@ permalink: /publications/
 author_profile: true
 ## Publications In Press
 ---
+**Benway, N.R.**, Preston, J. L., Salekin, A. Hitchcock, E., & McAllister, T. (in press). Evaluating Acoustic Representations and Normalization Techniques for Rhoticity Classification in Children with Speech Disorders. *JASA Express Letters*.
 
-Preston, J.L., Leece, M.C., Cabellero, N.F., Wang, D.L., Herbst, B.H.,  and **Benway, N.R.** (in press). A Randomized Controlled Trial of Treatment Distribution and Biofeedback Effects on Speech Production in School-Aged Children with Apraxia of Speech. *Journal of Speech, Language, and Hearing Research.*
+Preston, J.L., Leece, M.C., Cabellero, N.F., Wang, D.L., Herbst, B.H.,  and **Benway, N.R.** (2023). A Randomized Controlled Trial of Treatment Distribution and Biofeedback Effects on Speech Production in School-Aged Children with Apraxia of Speech. *Journal of Speech, Language, and Hearing Research.* [doi](https://doi.org/10.1044/2023_jslhr-22-00622)
 
-**Benway, N. R.**, & Preston, J. L. (in press). Clinical Efficacy and End User Acceptability of Motor-Based Intervention with Automated Mispronunciation Detection of Rhotics in Residual Speech Sound Disorders. INTERSPEECH 2023: Proceedings of the 24th Annual Conference of the International Speech Communication Association (ISCA), Dublin, Republic of Ireland. 	[doi](https://doi.org/10.48550/arXiv.2305.19090)
+**Benway, N. R.**, & Preston, J. L. (2023). Clinical Efficacy and End User Acceptability of Motor-Based Intervention with Automated Mispronunciation Detection of Rhotics in Residual Speech Sound Disorders. INTERSPEECH 2023: Proceedings of the 24th Annual Conference of the International Speech Communication Association (ISCA), Dublin, Republic of Ireland. 	[doi](https://doi.org/10.48550/arXiv.2305.19090)
 
-**Benway, N. R.**, Salekin, A., Xiao, Y., Sharma, H., & Preston, J. L. (in press). Classifying Rhoticity of /ɹ/ in Speech Sound Disorder using Age-and-Sex Normalized Formants: PERCEPT-R Classifier. *INTERSPEECH 2023: Proceedings of the 24th Annual Conference of the International Speech Communication Association (ISCA), Dublin, Republic of Ireland.* [doi](https://doi.org/10.48550/arXiv.2305.16111)
+**Benway, N. R.**, Salekin, A., Xiao, Y., Sharma, H., & Preston, J. L. (2023). Classifying Rhoticity of /ɹ/ in Speech Sound Disorder using Age-and-Sex Normalized Formants: PERCEPT-R Classifier. *INTERSPEECH 2023: Proceedings of the 24th Annual Conference of the International Speech Communication Association (ISCA), Dublin, Republic of Ireland.* [doi](https://doi.org/10.48550/arXiv.2305.16111)
 
-**Benway, N. R.**\*, Siriwardena, Y. M.\*, Preston, J. L., Hitchcock, E., McAllister, T., & Espy-Wilson, C. (in press). Acoustic-to-Articulatory Speech Inversion Features for Mispronunciation Detection in Child Speech Sound Disorders. *INTERSPEECH 2023: Proceedings of the 24th Annual Conference of the International Speech Communication Association (ISCA), Dublin, Republic of Ireland.* \* denotes equal contributions. [doi](https://doi.org/10.48550/arXiv.2305.16085)
+**Benway, N. R.**\*, Siriwardena, Y. M.\*, Preston, J. L., Hitchcock, E., McAllister, T., & Espy-Wilson, C. (2023). Acoustic-to-Articulatory Speech Inversion Features for Mispronunciation Detection in Child Speech Sound Disorders. *INTERSPEECH 2023: Proceedings of the 24th Annual Conference of the International Speech Communication Association (ISCA), Dublin, Republic of Ireland.* \* denotes equal contributions. [doi](https://doi.org/10.48550/arXiv.2305.16085)
 
-Coretta, S., Dokovova, M., Mridhula, M., and the **Open Science Framework Research Group**. (in press). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses. *Advances in Methods and Practices in Psychological Science. *
+Coretta, S., Dokovova, M., Mridhula, M., and the **Open Science Framework Research Group**. (2023). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses. *Advances in Methods and Practices in Psychological Science. *
 
 **Benway, N. R.**, Preston, J. L., Hitchcock, E. R., Rose, Y., Salekin, A., Liang, W., & McAllister, T. (2023). Reproducible Speech Research with the Artificial-Intelligence-Ready PERCEPT Corpora. *Journal of Speech, Language, and Hearing Research.* [doi](https://doi.org/10.1044/2023_JSLHR-22-00343)
 
