@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Posters and Presentations  
+
 *Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under* Publications.
 
 Berisha, V., Hustad, K., Scherer, N., and **Benway, N. R.** (2023, Nov). Clinical Speech Analytics for Pediatric Populations: Applications to Cerebral Palsy and Cleft Lip/Palate. Invited 60-minute seminar by the Speech and Language Science topic committee at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.
