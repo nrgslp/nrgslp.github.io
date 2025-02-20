@@ -29,7 +29,7 @@ Bachelor of Arts, Linguistics
 
 ## Honors and Awards
 
-Award for Continuing Education, American Speech-Language Hearing Association	2024
+Award for Continuing Education, American Speech-Language Hearing Association.	2024
 
 Editor’s Pick, Journal of the Acoustical Society of America – Express Letters.	2024
 
