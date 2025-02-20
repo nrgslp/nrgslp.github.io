@@ -29,6 +29,14 @@ Bachelor of Arts, Linguistics
 
 ## Honors and Awards
 
+Award for Continuing Education, American Speech-Language Hearing Association	2024
+
+Editor’s Pick, Journal of the Acoustical Society of America – Express Letters.	2024
+
+Visionary Session Award, American Speech-Language Hearing Convention.	2024
+
+ASHA Lessons for Success Protégé.	2024
+
 (Two) Changemaker Awards, ASHA Convention. 2023.
 
 RMPTA Award for Artificial Intelligence in CSD Research Symposium, ASHA Convention. 2023.
