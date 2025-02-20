@@ -8,6 +8,23 @@ author_profile: true
 
 *Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under* Publications.
 
+**Benway, N. R.** (2024, Dec). Level Up Your Critical Thinking around Artificial Intelligence for Speech Sound
+Disorders. Invited 2-hour seminar by the Speech Sound Disorders in Children with Normal Hearing topic committee at the Annual Convention of the American Speech-Language-Hearing Association, Seattle, WA.
+
+Preston,  J.l., **Benway, N. R.**, & Leece, M. (2024, Dec). Incorporating Principles of Motor Learning in Therapy for SSD with Speech Motor Chaining. 1-hour seminar at the Annual Convention of the American Speech-Language-Hearing Association, Seattle, WA.
+
+**Benway, N. R.**, Preston, J.L., & Espy-Wilson, C. (2024, Dec). How to Estimate Kinematic Data from Audio: Examining Source-Filter Coordination in Childhood Apraxia of Speech. 30-minute technical research at the Annual Convention of the American Speech-Language-Hearing Association, Seattle, WA.
+
+Lara, M., **Benway, N. R.**, Leece, M., Liang, W., Hitchcock, E., Preston, J. L., McAllister, T. (2024, Dec). Acoustic Comparison of Rhotic Acquisition in Biofeedback versus Motor-Based Treatment for Residual Speech Sound Disorder. Poster presented at the Annual Convention of the American Speech-Language-Hearing Association, Seattle, WA. 
+
+Lara, M., **Benway, N. R.**, Leece, M., Liang, W., Hitchcock, E., Preston, J. L., McAllister, T. (2024, Nov). Acoustic Comparison of Rhotic Acquisition in Biofeedback versus Motor-Based Treatment for Residual Speech Sound Disorder. Poster presented at the Acoustic Society of America Meeting (Virtual). 
+
+Berisha, V., Liss, J., Ng, S-I., Siegert, I., **Benway, N. R.**, and Cummins, N. (2024, Sept). Responsible Development and Translation of Clinical Speech Analytics. 6-hour tutorial accepted to Interspeech 2024, Kos, Greece. 
+
+**Benway, N. R.**, Preston, J. L., Salekin, A., and McAllister, T. (2024, Feb). Feature Selection for Mispronunciation Detection in Child Speech Sound Disorders Impacting /ɹ/. Motor Speech 2024, San Diego, CA.
+
+**Benway, N. R.**, & Preston, J. L. (2024, Feb). Prospective Clinical Single Case Experimental Design Validating Speech Sound Motor Learning Treatment Driven by a Mispronunciation Detection Algorithm. Motor Speech 2024, San Diego, CA.
+
 Berisha, V., Hustad, K., Scherer, N., and **Benway, N. R.** (2023, Nov). Clinical Speech Analytics for Pediatric Populations: Applications to Cerebral Palsy and Cleft Lip/Palate. Invited 60-minute seminar by the Speech and Language Science topic committee at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.
 
 **Benway, N. R.**, Leece, M., Caballero, N., Beiting, M., Herbst, B., & Preston, J. (2023, Nov). Put your Speech Sound Therapy on Autopilot: A User's Guide to Evidence-Based Speech Motor Chaining. 30-minute technical clinical session at the Annual Convention of the American Speech-Language-Hearing Association, Boston, MA.
