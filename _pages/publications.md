@@ -3,9 +3,23 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-## Publications In Press
+## Publications
 ---
-**Benway, N.R.**, Preston, J. L., Salekin, A. Hitchcock, E., & McAllister, T. (in press). Evaluating Acoustic Representations and Normalization Techniques for Rhoticity Classification in Children with Speech Disorders. *JASA Express Letters*.
+McAllister, T., Hitchcock, E., **Benway, N. R.**, Hill, J., and Preston, J. L. (2025). Protocol for Visual-acoustic Intervention with Service delivery In-person and via Telepractice (VISIT) Non-Inferiority Trial for Residual Speech Sound Disorder. BMC Pediatrics. 25 (1). [doi](https://doi.org/10.1186/s12887-024-05364-z)
+
+Herbst, B., Beiting, M., Schulteiss, M., **Benway, N. R.**, and Preston, J. L. (2024). Speech in Ten-Minute Sessions: A Pilot RCT of the Chaining SPLITS Service Delivery Model. Language, Speech, and Hearing Services in Schools. [doi](https://doi.org/10.1044/2024_LSHSS-24-000)
+
+Ng, S.-I., Xu, L., Siegert, I., Cummins, N., **Benway, N. R.**, Liss, J., & Berisha, V. (2024). A Tutorial on Clinical Speech AI Development: From Data Collection to Model Validation. arXiv. [doi](https://doi.org/10.48550/arXiv.2410.21640)
+
+Munson, B. Wruck, C., **Benway, N. R.**, and Preston, J. L. (2024). Gender and Age Biases in the Assessment of Speech Accuracy: A Study of Speech-Language Clinicians’ Ratings of /s/ Accuracy. International Journal of Language & Communication Disorders. [doi](https://doi.org/10.1111/1460-6984.13122)
+
+**Benway, N.R.**, and Preston, J. L. (2024). Artificial Intelligence-Assisted Speech Therapy for /ɹ/: A Single Case Experimental Study. American Journal of Speech-Language Pathology. 33 (5): 2461:2486. [doi] Doi: https://doi.org/10.1044/2024_AJSLP-23-00448
+
+**Benway, N.R.**, Preston, J. L., and Espy-Wilson, C. (2024) Evaluating Vocal Tract Coordination in Childhood Apraxia of Speech with Acoustic-to-Articulatory Speech Inversion Feature Sets. INTERSPEECH 2024: Proceedings of the 25th Annual Conference of the International Speech Communication Association (ISCA), Kos, Greece. [doi](https://doi.org/10.21437/Interspeech.2024-1114)
+
+Preston, J.L., **Benway, N.R.**, Prestopnik, N., & Preston, N.  (2024). The Speech Motor Chaining web app for speech motor learning. INTERSPEECH 2024: Proceedings of the 25th Annual Conference of the International Speech Communication Association (ISCA), Kos, Greece. [doi](https://www.isca-archive.org/interspeech_2024/preston24_interspeech.html)
+
+**Benway, N.R.**, Preston, J. L., Salekin, A. Hitchcock, E., & McAllister, T. (2024). Evaluating Acoustic Representations and Normalization Techniques for Rhoticity Classification in Children with Speech Disorders. *JASA Express Letters*. ***Editor's Pick. [doi](https://doi.org/10.1121/10.0024632)
 
 Preston, J.L., Leece, M.C., Cabellero, N.F., Wang, D.L., Herbst, B.H.,  and **Benway, N.R.** (2023). A Randomized Controlled Trial of Treatment Distribution and Biofeedback Effects on Speech Production in School-Aged Children with Apraxia of Speech. *Journal of Speech, Language, and Hearing Research.* [doi](https://doi.org/10.1044/2023_jslhr-22-00622)
 
