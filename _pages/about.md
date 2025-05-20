@@ -11,7 +11,7 @@ redirect_from:
 
 I am a speech-language pathologist, acoustic phonetician, and neural network engineer developing next-generation clinical speech technologies. I have expertise across the full lifecycle of clinical AI development: speech representations, neural network training, clinical trialing, and scalable deployment. 
 
-My work bridges clinical practice, speech science, and artificial intelligence (AI) to develop theoretically motivated and clinically validated AI tools to help clinicians extend the reach of best-practice speech therapy. 
+My work bridges clinical practice, speech science, and AI to develop theoretically motivated and clinically validated tools to help clinicians extend the reach of best-practice speech therapy. 
 
 I am currently an NIH NIDCD T32 post-doctoral fellow in the [Speech Communication Lab](https://scl.umd.edu/) at the University of Maryland, mentored by [Dr. Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson), where I am training in acoustic-to-articulatory speech inversion and speech modeling. 
 
