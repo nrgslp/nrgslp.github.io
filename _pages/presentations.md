@@ -6,7 +6,43 @@ author_profile: true
 ---
 
 
-*Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under* Publications.
+**Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under [Publications](https://nrgslp.github.io/publications/).**
+
+INVITED TALKS/PANELS
+
+Innovations in Technology Topic Committee, ASHA Convention (D.C.)	Forthcoming, 2025
+2-hour short course: A Second Course in Clinical Artificial Intelligence: Matching AI Technologies to Specific Clients.
+
+Speech Sound Disorders Topic Committee, ASHA Convention (D.C.)	Forthcoming, 2025
+1-hour seminar: Artificial Intelligence and the Assessment and Treatment of Speech Sound Disorders      
+
+Featured Speaker, The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies, Automatic Assessment of Atypical Speech workshop. 2025.
+1-hour session: What is so hard about AI speech therapy?	
+
+Featured Speaker, Pennsylvania Speech Language Hearing Association. 2025
+1-hour session: Current EBP and Future Possibilities for AI Speech Therapy
+
+Podcast Guest, Speech Scope, Medbridge Inc.	2025
+1-hour session: Artificial Intelligence (AI) and Speech Therapy: What Ethical Considerations Should I Think About?
+
+Speech Sound Disorders Topic Committee, ASHA Convention (Seattle)	2024
+2-hour seminar: Critical Thinking around Artificial Intelligence for Speech Sound Disorders
+
+INTERSPEECH Special Session. Kos, Greece. 2024
+Moderator: Connecting Speech-science and Speech-technology for Children’s Speech
+
+Multimedia Computing Group, Delft University of Technology. Delft, Netherlands.	2023
+Artificial Intelligence Assisted Motor Learning for Speech Sound Disorders Impacting /ɹ/ 
+
+Speech and Language Science Topic Committee, ASHA Convention (Boston)	2023
+Panel: Clinical Speech Analytics for Pediatric Populations
+
+INTERSPEECH Special Session. Dublin, Ireland.	2023
+Panel: Connecting Speech-science and Speech-technology for Children’s Speech
+
+TUTORIALS, PRESENTATIONS, AND POSTERS
+
+**Benway, N. R.**, Tabatabaee, S., Preston, J., Munson, B., & Espy-Wilson, C. (2025, June). How interpretable are kinematic estimates from acoustic-to-articulatory speech inversion for children with speech sound disorders? Poster presented at the Boston Speech Motor Control Symposium, Boston, MA.
 
 **Benway, N. R.** (2024, Dec). Level Up Your Critical Thinking around Artificial Intelligence for Speech Sound
 Disorders. Invited 2-hour seminar by the Speech Sound Disorders in Children with Normal Hearing topic committee at the Annual Convention of the American Speech-Language-Hearing Association, Seattle, WA.
@@ -70,20 +106,6 @@ Alfonso, V., Shanock, A., Muldoon, D., **Benway, N.**, & Oades-Sese, G. (2018, M
 **Benway, N.** (2011, November) Acoustic and Perceptual Changes in a Male to Female Transgender Individual. Poster session #8903 presented at the Convention of the American Speech-Language-Hearing Association, San Diego, California.  
 
 Hertz, S., Gibson, M., **Glatthorn, N.**, Hegde, P., Mills, H., and Spencer, I. (2008, April). The Role of Prosody in Speech Parsing. Poster Presentation at Experimental and Theoretical Advances in Prosody, Ithaca, New York.  
-
-## Invited Speaking Engagements
-
-Invited Co-Speaker, NSSLHA Professional Development at The College of Saint Rose. Albany, NY. 2017  
-·Two-hour seminar with Anne Rowley, PhD CCC-SLP: Accents and Dialects: From Phonetics to Assessment.
-
-Invited Speaker, Sister Charlene Bloom Mini-Convention at The College of Saint Rose. Albany, NY. 2015  
-· One-hour seminar: Supporting Students with Executive Functioning Deficits.  
-
-Invited Co-Speaker, Professional Development. The Brown School. Schenectady, NY. 2015  
-· One-hour seminar with Melissa Spring MS CCC-SLP: Hearing Across the Lifespan.  
-
-Invited Speaker, Brain Burst Community Forum. Schenectady, NY. 2014  
-·Ten-minute talk: Giftedness in School Age Children.  
 
 Invited Speaker, Schenectady City School District. Schenectady, NY	2014  
 ·Four-hour seminar: Assessing Metacognition through Language and Behavior Ratings. 
