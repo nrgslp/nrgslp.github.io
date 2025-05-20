@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Nina R Benway, PhD CCC-SLP – Clinical AI for Speech Sound Disorders"
-excerpt: "Speech-language pathologist and machine learning researcher focused on AI for childhood speech sound disorders, speech inversion, and clinical speech technologies."
+title: ""
+excerpt: "Nina R Benway is a speech-language pathologist and machine learning researcher focused on AI for childhood speech sound disorders, speech inversion, and clinical speech technologies."
 author_profile: true
 redirect_from: 
   - /about/
@@ -42,4 +42,4 @@ I have also investigated how different types of speech sound disorders manifest 
 ---
 
 The tools I use to address these research themes include:
-Amazon AWS, Google Speech API, HTCondor/Cluster Computing, Linux, MATLAB, Montreal Forced Aligner/Kaldi, NLTK, Phon, Praat, Python, PyTorch/CUDA, R, Regex, SAS, Stanza/CoreNLP
+Azure DevOps, Amazon AWS, Google Speech API, HTCondor/Cluster Computing, Linux, MATLAB, Montreal Forced Aligner/Kaldi, NLTK, Phon, Praat, Python, PyTorch/CUDA, R, REDCap API, Regex, REST APIs, SAS, Stanza/CoreNLP
