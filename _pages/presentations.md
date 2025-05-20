@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under [Publications](https://nrgslp.github.io/publications/).**
+*Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under [Publications](https://nrgslp.github.io/publications/).*
 
 INVITED TALKS/PANELS
 
