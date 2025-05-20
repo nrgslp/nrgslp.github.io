@@ -6,7 +6,7 @@ author_profile: true
 ## Publications
 ---
 
-For the most updated list of publications, see the Google Scholar, PubMed, and ORCID links in the left side bar. 
+*For the most updated list of publications, see the Google Scholar, PubMed, and ORCID links in the left side bar. *
 
 
 ## Journal Publications
