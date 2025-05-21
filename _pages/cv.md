@@ -62,6 +62,16 @@ Alumna of Excellence. Communication Sciences and Disorders Department, The Colle
 
 ## Selective Training Programs
 
+Lessons for Success. American Speech-Language-Hearing Association. 2024
+
 Women in Science and Engineering: Future Professionals Program. Syracuse University. 2020-2022
 
 Leadership Development Program: Schools Cohort. American Speech-Language-Hearing Association. 2015-2016
+
+## Memberships
+
+American Speech-Language-Hearing Association
+
+International Speech Communication Association
+
+Nu Rho Psi
