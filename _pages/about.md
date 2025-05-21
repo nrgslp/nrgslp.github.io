@@ -23,7 +23,7 @@ I am currently an NIH NIDCD T32 post-doctoral fellow in the [Speech Communicatio
 
 My research develops clinical AI systems based on speech-language pathology best practice. I am the lead inventor on the patent-pending PERCEPT AI system: a neural network that predicts clinician judgment of the "R" sound during speech therapy. My doctoral work with [Jonathan Preston](https://artsandsciences.syracuse.edu/people/faculty/preston-jonathan-l/#Biography) has shown that speech production improves with ChainingAI, a therapy platform delivering motor-based intervention with automated feedback. ChainingAI allows learners to practice evidence-based [Speech Motor Chaining](https://chaining.syr.edu) at home. Three additional clinical trials for AI speech therapies are ongoing. 
 
-### Automatic Kinematic Speech Analyses
+### Automated Kinematic Speech Analyses
 
 A separate line of my research investigates acoustic-to-articulatory speech inversion, a technique that estimates vocal tract gestures from audio alone. My research has shown that speech inversion vocal tract gestures can differentiate subtypes of speech sound errors in children with single-sound speech disorders and quantify speech coordination differences in childhood apraxia of speech. My ongoing work examines how automated kinematic speech analyses can enhance the types of feedback that AI clinicians can give.
 
