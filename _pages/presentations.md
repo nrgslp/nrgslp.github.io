@@ -8,7 +8,7 @@ author_profile: true
 
 *Note that posters and presentations associated with peer-reviewed and published conference proceedings are listed only once, under [Publications](https://nrgslp.github.io/publications/).*
 
-INVITED TALKS/PANELS
+## Invited Talks and Panels
 
 Motor Speech Across the Lifespan Topic Committee, ASHA Convention (Indianapolis)	Forthcoming, 2026
 Current Challenges and Future Directions in MSD Research: Cultural, Clinical, and Artificial Intelligence Perspectives
@@ -55,7 +55,7 @@ AI-Assisted Speech Therapy
 Supervisor’s Workshop, The College of Saint Rose. Albany, NY	2022
 Two-hour workshop: Motor Learning with Speech Motor Chaining
 
-TUTORIALS, PRESENTATIONS, AND POSTERS
+## Tutorials, Presentations, and Posters
 
 **Benway, N. R.**, Tabatabaee, S., Preston, J., Munson, B., & Espy-Wilson, C. (2025, June). How interpretable are kinematic estimates from acoustic-to-articulatory speech inversion for children with speech sound disorders? Poster presented at the Boston Speech Motor Control Symposium, Boston, MA.
 
