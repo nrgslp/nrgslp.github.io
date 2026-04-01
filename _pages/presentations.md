@@ -10,6 +10,12 @@ author_profile: true
 
 INVITED TALKS/PANELS
 
+Motor Speech Across the Lifespan Topic Committee, ASHA Convention (Indianapolis)	Forthcoming, 2026
+Current Challenges and Future Directions in MSD Research: Cultural, Clinical, and Artificial Intelligence Perspectives
+
+Featured Speaker, North Carolina Speech Language Hearing Association	2026
+1-hour seminar: Critical Thinking for Ethical AI Assessment and Treatment in CSD
+
 Innovations in Technology Topic Committee, ASHA Convention (D.C.)	Forthcoming, 2025
 2-hour short course: A Second Course in Clinical Artificial Intelligence: Matching AI Technologies to Specific Clients.
 
@@ -21,6 +27,9 @@ Featured Speaker, The Joint 25th Nordic Conference on Computational Linguistics 
 
 Featured Speaker, Pennsylvania Speech Language Hearing Association. 2025
 1-hour session: Current EBP and Future Possibilities for AI Speech Therapy
+
+Featured Speaker, Pennsylvania Speech Language Hearing Association. 	2025
+3-hour session: Treating school-age speech sound disorders with Speech Motor Chaining
 
 Podcast Guest, Speech Scope, Medbridge Inc.	2025
 1-hour session: Artificial Intelligence (AI) and Speech Therapy: What Ethical Considerations Should I Think About?
@@ -39,6 +48,12 @@ Panel: Clinical Speech Analytics for Pediatric Populations
 
 INTERSPEECH Special Session. Dublin, Ireland.	2023
 Panel: Connecting Speech-science and Speech-technology for Children’s Speech
+
+Grand Rounds, The College of Saint Rose. Albany, NY	2023
+AI-Assisted Speech Therapy
+
+Supervisor’s Workshop, The College of Saint Rose. Albany, NY	2022
+Two-hour workshop: Motor Learning with Speech Motor Chaining
 
 TUTORIALS, PRESENTATIONS, AND POSTERS
 

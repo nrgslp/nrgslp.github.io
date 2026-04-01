@@ -11,13 +11,21 @@ author_profile: true
 
 ## Journal Publications
 
+**Benway, N.R.**, Tabatabaee, S., Wang, D., Munson, B., Preston, J.L., Espy-Wilson, C. (2026). Perceptual Ratings Predict Speech Inversion Articulatory Kinematics in Childhood Speech Sound Disorders. *Journal of Speech, Language, and Hearing Research.* 69 (2): 541–561. [doi](https://doi.org/10.1044/2025_JSLHR-25-00515)
+
+Preston, J. L., Hitchcock, E. R., Leece, M., **Benway, N. R.** & McAllister, T. (2026). Rhotic Generalization is More Rapid in Biofeedback than Motor-Based Treatment for Residual Speech Sound Disorder: Secondary Outcomes of a Randomized Controlled Trial. *Journal of Speech, Language, and Hearing Research.* [doi](https://doi.org/10.1044/2025_JSLHR-25-00700)
+
+Caballero, N. F., McNamara, K., **Benway, N.R.**, Wang, Q., & Preston, J.L. (2026). Speech Error Subtypes and Their Association with Phonological Awareness in School-Aged Children and Young Adults. *Journal of Speech, Language, and Hearing Research.* E-pub ahead of print. [doi](https://doi.org/10.1044/2025_jslhr-25-00512)
+
+McAllister, T., Preston, J. L., **Benway, N. R.**, Hill, J., Lara, M., Leece, M., Liang, W., Hitchcock, E. (2025). Rhotic Acquisition is More Rapid in Biofeedback than Motor-Based Treatment for Residual Speech Sound Disorder: Primary Outcome of a Randomized Controlled Trial. *Journal of Speech, Language, and Hearing Research.* [doi](https://doi.org/10.1044/2025_jslhr-24-00909)
+
 **Benway, N.R.**, and Preston, J.L. (2025). Preparing Clinicians for a Future of Artificial Intelligence-Assisted Evidence-Based Practice through the Critical Appraisal of Clinical Artificial Intelligence. E pub ahead of issue. [doi](https://doi.org/10.1044/2025_LSHSS-24-00085)
 
 McAllister, T., Hitchcock, E., **Benway, N. R.**, Hill, J., and Preston, J. L. (2025). Protocol for Visual-acoustic Intervention with Service delivery In-person and via Telepractice (VISIT) Non-Inferiority Trial for Residual Speech Sound Disorder. BMC Pediatrics. 25 (1). [doi](https://doi.org/10.1186/s12887-024-05364-z)
 
 Herbst, B., Beiting, M., Schulteiss, M., **Benway, N. R.**, and Preston, J. L. (2024). Speech in Ten-Minute Sessions: A Pilot RCT of the Chaining SPLITS Service Delivery Model. Language, Speech, and Hearing Services in Schools. [doi](https://doi.org/10.1044/2024_LSHSS-24-000)
 
-Ng, S.-I., Xu, L., Siegert, I., Cummins, N., **Benway, N. R.**, Liss, J., & Berisha, V. (2024). A Tutorial on Clinical Speech AI Development: From Data Collection to Model Validation. arXiv. [doi](https://doi.org/10.48550/arXiv.2410.21640)
+Ng, S. I., Xu, L., Siegert, I., Cummins, N., **Benway, N. R.**, Liss, J., & Berisha, V. (2026). An End-to-End Overview of Clinical Speech AI. *IEEE Transactions on Audio, Speech and Language Processing.* 1–34. [doi](https://doi.org/10.1109/taslpro.2026.3660470)
 
 Munson, B. Wruck, C., **Benway, N. R.**, and Preston, J. L. (2024). Gender and Age Biases in the Assessment of Speech Accuracy: A Study of Speech-Language Clinicians’ Ratings of /s/ Accuracy. International Journal of Language & Communication Disorders. [doi](https://doi.org/10.1111/1460-6984.13122)
 
@@ -42,6 +50,8 @@ Preston, J.L., **Benway, N.R.**, Leece, M.C., Hitchcock, E., & McAllister, T. (2
 **Benway, N.R.**, & Preston, J.L. (2020). Differences Between School-Aged Children with Apraxia of Speech and Other Speech Sound Disorders on Multisyllable Repetition. _Perspectives of the ASHA Special Interest Groups: Advances in Research and Clinical Management of CAS Forum_. [doi](https://doi.org/10.1044/2020_PERSP-19-00086)
 
 ## Peer-Reviewed Proceeding Papers
+
+Kaur, S., Gump, A., Xiao, Y., Xin, J., Sharma, H., **Benway, N. R.**, Preston, J. L., Salekin, A. (2025). CRoP: Context-wise Robust Static Human-Sensing Personalization. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.* 9(2): 34. [doi](https://doi.org/10.1145/3729483)
 
 **Benway, N. R.**, Tabatabaee, S., Preston, J.L., Munson, B., Espy-Wilson, C. (in press). Subtyping Speech Errors in Child Speech Sound Disorders with Acoustic-to-Articulatory Speech Inversion. INTERSPEECH 2025: Proceedings of the 25th Annual Conference of the International Speech Communication Association (ISCA), Rotterdam, Netherlands.
 

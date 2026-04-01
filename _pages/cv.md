@@ -27,7 +27,16 @@ Master of Science in Education, Communication Sciences and Disorders
 Bachelor of Arts, Linguistics
 
 
+## Funded Awards
+
+American Speech-Language-Hearing Foundation New Investigators Research Grant	2025
+Interpretable and Available Acoustic-to-Articulatory Speech Inversion. PI: Nina R. Benway.
+
 ## Honors and Awards
+
+Meritorious Poster, American Speech-Language Hearing Convention.	2025
+
+(Two) Centennial Session Awards, American Speech-Language Hearing Convention.	2025
 
 Award for Continuing Education, American Speech-Language Hearing Association.	2024
 
