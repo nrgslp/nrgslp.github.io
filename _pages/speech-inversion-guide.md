@@ -143,7 +143,7 @@ New models are coming soon.
 - This service is hosted on University of Maryland infrastructure
 
 **If your audio contains recordings from human participants:**
-Please ensure your IRB protocol covers submission of de-identified audio to a third-party analysis service. Contact [benway@umd.edu](mailto:benway@umd.edu) with questions.
+Please ensure your IRB protocol covers submission of de-identified audio to a third-party analysis service.
 
 ---
 
@@ -162,7 +162,7 @@ Links are valid for 7 days. Please resubmit your files.
 Tract variable estimates are most reliable for clearly recorded speech at a comfortable speaking rate. Very fast speech, overlapping speakers, or noisy recordings may produce less reliable estimates. This is a model limitation, not an error.
 
 **I need help interpreting the output.**
-See the references below, or contact [benway@umd.edu](mailto:benway@umd.edu).
+See the references below.
 
 ---
 
@@ -191,6 +191,5 @@ And the underlying model:
 Nina R. Benway, PhD CCC-SLP
 Postdoctoral Fellow, Electrical and Computer Engineering
 University of Maryland, College Park
-[benway@umd.edu](mailto:benway@umd.edu)
 
 *This service is available for research use, with funding for ~ 4 years following initial deployment.*
