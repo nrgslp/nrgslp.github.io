@@ -56,7 +56,8 @@ Before using the service, please ensure your IRB protocol covers your intended u
 
 ---
 
-## What Is Speech Inversion and What Are Tract Variables?
+<details markdown="1">
+<summary>What Is Speech Inversion and What Are Tract Variables?</summary>
 
 Speech inversion estimates articulatory movement directly from the acoustic signal (e.g., Papcun et al., 1992), without any imaging or sensors on the speaker. This makes it possible to approximate kinematic analysis in datasets that were never collected with kinematic instrumentation.
 
@@ -90,6 +91,8 @@ Attia et al. (2024) describe how constriction location and degree are computed f
 
 </details>
 
+</details>
+
 ---
 
 ## Who Is The Speech Inversion Service For?
@@ -110,7 +113,8 @@ For each `.wav` file you submit, you will receive one output file containing tra
 | 1 | 0.010 | 0.131 | 0.461 | 0.011 | −0.228 | 0.351 | −0.112 | 0.139 | −0.328 | 0.439 | −0.561 |
 | 2 | 0.020 | 0.140 | 0.470 | 0.009 | −0.219 | 0.359 | −0.106 | 0.146 | −0.323 | 0.432 | −0.553 |
 
-*Column definitions:*
+<details markdown="1">
+<summary>Column definitions</summary>
 
 | Column | Full Name | Description |
 |---|---|---|
@@ -127,13 +131,16 @@ For each `.wav` file you submit, you will receive one output file containing tra
 | `TBCL` | Tongue Body Constriction Location | How far forward/back the tongue body constriction is |
 | `TBCD` | Tongue Body Constriction Degree | How close the tongue body is to the palate |
 
+</details>
+
 *Note on scale:* Tract variable values are normalized, unitless model outputs. They are not in centimeters or millimeters. They represent relative articulatory positions that can be compared within and across speakers.
 
 ---
 
 ## Using the Speech Inversion Service
 
-### Before You Begin
+<details markdown="1">
+<summary>Before You Begin</summary>
 
 Audio file requirements
 
@@ -149,7 +156,10 @@ What to avoid
 - Files shorter than 100 ms will be rejected with an error message
 - Files in formats other than `.wav` (e.g., `.mp3`, `.m4a`) will be rejected; please convert them first
 
-### How to Submit
+</details>
+
+<details markdown="1">
+<summary>How to Submit</summary>
 
 Step 1 — Prepare your audio files
 
@@ -172,6 +182,8 @@ Step 3 — Wait for your results
 - Processing time depends on the number and length of files in your batch, as well as the length of the job queue. You will receive an email when your results are ready, typically within one hour. Note that the first job of the day takes a little longer as the system wakes up.
 - The email will contain a download link for a ZIP of your result files. This link is valid for 7 days. After 7 days, the results are automatically deleted from our servers in accordance with our data retention policy.
 
+</details>
+
 ---
 
 <details markdown="1">
@@ -189,14 +201,17 @@ For NPY files, the channel order is `nasalance`, `PER`, `APER`, `F0`, `LA`, `LP`
 
 ---
 
-## Data Privacy
+<details markdown="1">
+<summary>Data Privacy</summary>
 
 - Audio files are encrypted in transit (HTTPS) and encrypted at rest on our servers (AES-256 encryption)
 - Audio files are automatically deleted after 7 days. The output files (which contain only numbers, not audio) may be retained longer
 - Only you (the submitting researcher) receive the download link; results are not shared with other users
 - Our server logs record only a job ID, not your audio filenames or researcher email address
 - This service is hosted on authorization-based infrastructure at the University of Maryland
-- *Please ensure your IRB protocol covers submission of de-identified audio to a third-party analysis service.*
+- *Please ensure your IRB protocol covers upload of speech to a third-party analysis service.*
+
+</details>
 
 ---
 
