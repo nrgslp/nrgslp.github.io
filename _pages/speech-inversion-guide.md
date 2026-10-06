@@ -146,7 +146,7 @@ Audio file requirements
 
 - Format: WAV files only (`.wav`)
 - Sample rate: any sample rate is accepted; files are automatically converted to 16 kHz. Uploading your audio at 16 kHz, though not required, will allow you to upload more audio per batch.
-- Duration: at least 100 milliseconds per file, no maximum
+- Duration: at least 100 milliseconds per file. There is currently a per-file maximum of 90 seconds.
 - Content: any speech is acceptable. The service does not reject recordings based on speaker characteristics, dialect, disorder type, or recording quality.
 - Channels: mono preferred; stereo files are automatically converted to mono
 
