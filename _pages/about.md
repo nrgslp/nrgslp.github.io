@@ -11,7 +11,7 @@ redirect_from:
 
 I am a clinician, acoustic phonetician, and engineer developing clinical speech technologies to make best-practice biofeedback available to those who need speech therapy.
 
-I am a postdoctoral fellow in Electrical and Computer Engineering at the University of Maryland, College Park, working with [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) in the Speech Communication Lab. My training and research are supported by an NIH NIDCD Pathway to Independence Award (K99/R00) and the American Speech-Language-Hearing Foundation.
+I am a postdoctoral fellow in Electrical and Computer Engineering at the University of Maryland, College Park, working with [Distinguished University Professor](https://ece.umd.edu/news/story/professor-carol-espywilson-named-umd-distinguished-university-professor) [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) in the Speech Communication Lab. My training and research are supported by an NIH NIDCD Pathway to Independence Award (K99/R00) and the American Speech-Language-Hearing Foundation.
 
 <p><strong>Jump to:</strong> <a href="#profile">Profile</a> | <a href="#research-themes">Research Themes</a></p>
 
