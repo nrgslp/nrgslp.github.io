@@ -19,7 +19,7 @@ I am a postdoctoral fellow in Electrical and Computer Engineering at the Univers
 
 - **Education:**
   - BA: Linguistics, Cornell University
-  - MS: Communication Sciences and Disorders, The College of Saint Rose
+  - MS: Communication Sciences and Disorders, The College of Saint&nbsp;Rose
   - PhD: Speech-Language Pathology/Neuroscience Track, Syracuse University
   - Postdoctoral Fellow: Electrical and Computer Engineering, University of Maryland, College Park
 - **Funding:**

@@ -119,6 +119,11 @@
   li li {
     font-size: 1em;
   }
+
+  /* tighter list indentation (browser default is 40px per level) */
+  ul, ol {
+    padding-left: 1.25em;
+  }
 }
 
 .page__hero {
