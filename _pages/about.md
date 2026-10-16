@@ -13,13 +13,15 @@ I am a clinician, acoustic phonetician, and engineer developing clinical speech 
 
 I am a postdoctoral fellow in Electrical and Computer Engineering at the University of Maryland, College Park, working with [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) in the Speech Communication Lab. My training and research are supported by an NIH NIDCD Pathway to Independence Award (K99/R00) and the American Speech-Language-Hearing Foundation.
 
+[Profile](#profile) | [Research Themes](#research-themes)
+
 ## Profile
 
 - **Education:**
   - BA: Linguistics, Cornell University
   - MS: Communication Sciences and Disorders, The College of Saint Rose
-  - PhD: Speech Language Pathology/Neuroscience Track, Syracuse University
-  - Post Doc: Electrical Engineering, University of Maryland, College Park
+  - PhD: Speech-Language Pathology/Neuroscience Track, Syracuse University
+  - Postdoctoral Fellow: Electrical and Computer Engineering, University of Maryland, College Park
 - **Funding:**
   - Principal Investigator: NIH NIDCD Pathway to Independence Award (K99/R00) 1K99DC023310; American Speech-Language-Hearing Foundation Speech Science Research Grant 16038; American Speech-Language-Hearing Foundation New Investigators Research Grant 14181.
   - Co-Investigator: NIH R01DC017476 (PI: Tara McAllister) and NIH R01DC020959 (PI: Jonathan Preston).
@@ -44,11 +46,11 @@ I am a postdoctoral fellow in Electrical and Computer Engineering at the Univers
 
 ### Extending Ultrasound and Articulography: Kinematic Speech Analysis from Audio
 
-Ultrasound imaging and articulography track real-time movement of the tongue, which is normally hidden from view. But, these methods are impractical to deploy in the clinic. My postdoctoral research develops clinically-validated acoustic-to-articulatory speech inversion, a neural network method that estimates ultrasound and articulography the movements of the tongue, lips, and jaw from audio alone. I have shown that inferred tract variables differentiate error subtypes in children with speech sound disorders and quantify coordination differences in childhood apraxia of speech. I have also shown that clinician ratings of speech correctness predict articulatory proximity to the target sound. My K99 builds on this work to estimate child vocal tract gestures, classify gesture errors, and personalize midsagittal tongue biofeedback displays for each learner.
+Ultrasound imaging and articulography track real-time movement of the tongue, which is normally hidden from view. But these methods are difficult to deploy outside specialized laboratories. My postdoctoral research develops clinically interpretable acoustic-to-articulatory speech inversion, a neural network method that estimates the tongue, lip, and jaw movements measured by ultrasound and articulography from audio alone. I have shown that inferred tract variables differentiate error subtypes in children with speech sound disorders and quantify coordination differences in childhood apraxia of speech. I have also shown that clinician ratings of speech correctness predict articulatory proximity to the target sound. My K99 builds on this work to estimate child vocal tract gestures, classify gesture errors, and personalize midsagittal tongue biofeedback displays for each learner.
 
 ### Clinically Tested AI Clinicians for Speech Therapy
 
-I develop neural networks for speech therapy, embed them in validated motor learning therapy paradigms, and test them in clinical trials. I am the lead inventor on PERCEPT, a neural network that predicts clinician judgment of speech correctness during therapy. With [Jonathan Preston](https://artsandsciences.syracuse.edu/people/faculty/preston-jonathan-l/#Biography), I embedded PERCEPT in ChainingAI, a platform that delivers [Speech Motor Chaining](https://chaining.myspeechlink.com) with automated feedback for practice at home. A single-case experimental study showed improved /ɹ/ production, and a randomized controlled trial of ChainingAI is underway. I also work on responsible standards for developing and evaluating clinical AI, including an end-to-end overview of clinical speech AI.
+I develop neural networks for speech therapy, embed them in validated motor learning therapy paradigms, and test them in clinical trials. I am the lead inventor on PERCEPT, a neural network that predicts clinician judgment of speech correctness during therapy. With [Jonathan Preston](https://artsandsciences.syracuse.edu/people/faculty/preston-jonathan-l/#Biography), I co-developed ChainingAI, the AI clinician that combines the PERCEPT neural network with the adaptive [Speech Motor Chaining](https://chaining.myspeechlink.com) motor learning software for practice at home. A single-case experimental study showed improved /ɹ/ production, and a randomized controlled trial of ChainingAI is underway. I also work on responsible standards for developing and evaluating clinical AI, including an end-to-end overview of clinical speech AI.
 
 ### Ultrasound Biofeedback and Acoustic Biofeedback for Speech Therapy
 
@@ -60,7 +62,7 @@ I have investigated how speech sound disorders manifest across articulatory, per
 
 ### Child Speech Data and Research
 
-I curated the [PERCEPT Corpora](https://phon.talkbank.org/access/Clinical/PERCEPT-R.html), the largest open-access speech corpora for speech sound disorders in American English. I am the sole US-based co-founder of the Connecting Child Speech Science and Speech Technology special session at Interspeech, and I helped introduce child speech topic areas to the main program.
+I curated the [PERCEPT Corpora](https://phon.talkbank.org/access/Clinical/PERCEPT-R.html), the largest open-access speech corpora for speech sound disorders in American English. I am the sole US-based co-founder of the Interspeech special sessions Connecting Speech-science and Speech-technology for Children's Speech, and I helped introduce child speech topic areas to the main program.
 
 ### Automated Language Sample Analysis
 
