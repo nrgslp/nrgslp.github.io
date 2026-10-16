@@ -16,10 +16,10 @@ Current Challenges and Future Directions in MSD Research: Cultural, Clinical, an
 Featured Speaker, North Carolina Speech Language Hearing Association	2026
 1-hour seminar: Critical Thinking for Ethical AI Assessment and Treatment in CSD
 
-Innovations in Technology Topic Committee, ASHA Convention (D.C.)	Forthcoming, 2025
+Innovations in Technology Topic Committee, ASHA Convention (D.C.)	2025
 2-hour short course: A Second Course in Clinical Artificial Intelligence: Matching AI Technologies to Specific Clients.
 
-Speech Sound Disorders Topic Committee, ASHA Convention (D.C.)	Forthcoming, 2025
+Speech Sound Disorders Topic Committee, ASHA Convention (D.C.)	2025
 1-hour seminar: Artificial Intelligence and the Assessment and Treatment of Speech Sound Disorders      
 
 Featured Speaker, The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies, Automatic Assessment of Atypical Speech workshop. 2025.
@@ -56,6 +56,26 @@ Supervisor’s Workshop, The College of Saint Rose. Albany, NY	2022
 Two-hour workshop: Motor Learning with Speech Motor Chaining
 
 ## Tutorials, Presentations, and Posters
+
+\* denotes student/mentee.
+
+**Benway, N. R.**, Kadambi, P., Mahr, T., Berisha, V., & Hustad, K. (2026, November). Two Novel Automated Measures of Speech Sound Production: Acoustic Goodness and Articulatory Difference. 30-minute technical research session 4556, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+**Benway, N. R.**, Phillips-Pereira, E., Vasandani, V., & Preston, J. L. (2026, November). Increasing Speech Motor Chaining Treatment Intensity with an Artificial Intelligence Clinician: ChainingAI Randomized Controlled Trial. Poster 8144, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+Beiting, M., **Benway, N. R.**, & Preston, J. L. (2026, November). Does Choice Matter? A Single-Case Experimental Study of Autonomy Support in /ɹ/ Teletherapy. 30-minute technical research session 4662, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+Beiting, M., Preston, J. L., **Benway, N. R.**, & Maas, E. (2026, November). Making Sense of Principles of Motor Learning: Systematic Review Evidence and Implications for Pediatric Treatment. 1-hour seminar 1101, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+Kadambi, P., McAuliffe, M., **Benway, N. R.**, Mahr, T., Berisha, V., & Hustad, K. (2026, November). Upgrade Speech Analysis with AI Speech-to-Phoneme Alignment in Clinical Practice and in Research. 1-hour seminar 1630, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+Mahr, T., Martínez-Correa, J. A., Cochran, A., Kadambi, P., **Benway, N. R.**, McAuliffe, M., Berisha, V., & Hustad, K. (2026, November). Development of Phoneme Production in Children Using Acoustic Goodness Scores. 30-minute technical research session 4557, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+Snodgrass, T.\*, Baker, Z.\*, **Benway, N. R.**, & Preston, J. L. (2026, November). Can AI Support Speech Sound Disorder Practice? SLP and Parent Perspectives. Poster 8441, Annual Convention of the American Speech-Language-Hearing Association, Indianapolis, Indiana. *Forthcoming.*
+
+McAllister, T., Hitchcock, E. R., Preston, J. L., **Benway, N. R.**, Eads, A., Cambell, T., Hill, J. (2026, November). Ultrasound biofeedback outperforms other feedback types for generalization of /ɹ/ in a large-scale randomized controlled trial. Ultrasound XII: Conference on Ultrasound Imaging for Speech and Language Research, Paris, France. *Forthcoming.*
+
+**Benway, N. R.**, Snodgrass, T., Hazelton, K.\*, Wang, D., Munson, B., & Preston, J. L. (2026, May). Does the Sampling Rate of Audio Recordings Impact Clinician Ratings of American English /s/ and /z/ in Children with Speech Sound Errors? Poster presented at the 47th International Child Phonology Conference, Madison, Wisconsin.
 
 **Benway, N. R.**, Tabatabaee, S., Preston, J., Munson, B., & Espy-Wilson, C. (2025, June). How interpretable are kinematic estimates from acoustic-to-articulatory speech inversion for children with speech sound disorders? Poster presented at the Boston Speech Motor Control Symposium, Boston, MA.
 

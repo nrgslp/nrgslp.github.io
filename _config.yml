@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nina R Benway"
   avatar           : "profile.png"
-  bio              : "I engineer theory-driven clinical artificial intelligence speech technologies to improve access to speech-language therapy, and I test how well these speech technologies work using clinical trial experimental designs."
+  bio              : "I develop and clinically test neural network speech technologies, from acoustic-to-articulatory speech inversion to AI-assisted biofeedback therapy. NIH K99 postdoctoral fellow in Electrical and Computer Engineering, University of Maryland."
   location         : "College Park, MD, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=nina+benway"
