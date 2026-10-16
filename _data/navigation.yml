@@ -6,14 +6,14 @@ main:
   - title: "Presentations"
     url: /presentations/    
 
-  - title: "Teaching and Service"
-    url: /teaching/    
-    
+  #- title: "Teaching and Service"
+  #  url: /teaching/
+
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  - title: "Clinical Experience"
-    url: /clinical/
-    
+
+  #- title: "Clinical Experience"
+  #  url: /clinical/
+
   #- title: "Guide"
   #  url: /markdown/
