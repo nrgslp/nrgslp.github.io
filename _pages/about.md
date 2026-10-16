@@ -25,7 +25,7 @@ I am a postdoctoral fellow in Electrical and Computer Engineering at the Univers
 - **Funding:**
   - Principal Investigator: NIH NIDCD Pathway to Independence Award (K99/R00) 1K99DC023310; American Speech-Language-Hearing Foundation Speech Science Research Grant 16038; American Speech-Language-Hearing Foundation New Investigators Research Grant 14181.
   - Co-Investigator: NIH R01DC017476 (PI: Tara McAllister) and NIH R01DC020959 (PI: Jonathan Preston).
-  - Previously funded as a trainee by NIH NIDCD T32DC000046 (PIs: M. Goupell and C. Carr; mentor: Carol Espy-Wilson).
+  - Previously funded as a trainee by NIH NIDCD T32DC000046 (PIs: Matt Goupell and Catherine Carr; mentor: Carol Espy-Wilson).
 - **Clinical Trials:**
   - First author: [ChainingAI](https://clinicaltrials.gov/study/NCT05988515) (in progress); [single-case randomization design comparing ultrasound and visual-acoustic biofeedback](https://pubmed.ncbi.nlm.nih.gov/34232693/) ([registry](https://clinicaltrials.gov/study/NCT03736213)).
   - Co-investigator or co-author: [iChain](https://clinicaltrials.gov/study/NCT05929859), [VISIT](https://clinicaltrials.gov/study/NCT06517225), and [GAINS](https://clinicaltrials.gov/study/NCT06884943) (in progress); [C-RESULTS](https://clinicaltrials.gov/study/NCT03737318) ([primary outcomes](https://pubmed.ncbi.nlm.nih.gov/40920957/), [secondary outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC13081154/)); [ultrasound biofeedback trial for childhood apraxia of speech](https://clinicaltrials.gov/study/NCT03238677).
