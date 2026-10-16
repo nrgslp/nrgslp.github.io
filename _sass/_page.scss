@@ -12,7 +12,7 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1500px;
   }
 }
 
@@ -118,11 +118,6 @@
 .archive {
   li li {
     font-size: 1em;
-  }
-
-  /* tighter list indentation (browser default is 40px per level) */
-  ul, ol {
-    padding-left: 1.25em;
   }
 }
 
