@@ -107,6 +107,21 @@
   }
 }
 
+/* Archive-layout pages (publications, presentations, teaching, clinical) use the same
+   body text size as single-layout pages, and nested list items keep their parent's size. */
+.archive {
+  p, li, dl {
+    font-size: 0.9em;
+  }
+}
+
+.page__content,
+.archive {
+  li li {
+    font-size: 1em;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
