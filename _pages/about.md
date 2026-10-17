@@ -17,11 +17,11 @@ I am a postdoctoral fellow in Electrical and Computer Engineering at the Univers
 
 ## Profile
 
-- **Education:**
+- **Education/Training:**
   - BA: Linguistics, Cornell University
   - MS: Communication Sciences and Disorders, The College of Saint&nbsp;Rose
   - PhD: Speech-Language Pathology/Neuroscience Track, Syracuse University
-  - Postdoctoral Fellow: Electrical and Computer Engineering, University of Maryland
+  - Postdoctoral: Electrical and Computer Engineering, University of Maryland
 - **Funding:**
   - Principal Investigator: NIH NIDCD Pathway to Independence Award (K99/R00) 1K99DC023310; American Speech-Language-Hearing Foundation Speech Science Research Grant 16038; American Speech-Language-Hearing Foundation New Investigators Research Grant 14181.
   - Co-Investigator: NIH R01DC017476 (PI: Tara McAllister) and NIH R01DC020959 (PI: Jonathan Preston).
