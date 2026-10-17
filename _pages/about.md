@@ -33,7 +33,7 @@ I am a postdoctoral fellow in Electrical and Computer Engineering at the Univers
   - Patent: Lead inventor, [Clinical Speech Analysis System for Childhood Speech Disorders](https://patents.google.com/patent/US20240298963A1/en), U.S. Patent Application No. 18/599,837 (notice of allowance mailed June 2026).
   - Industry: Co-founder, President, and CEO, [SpeechLink Incorporated](https://myspeechlink.com).
 - **Research Methods:**
-  - Ultrasound and articulatory data processing: ultrasound and articulography data analysis, tongue contour tracking, pose estimation, kinematic and vocal tract variable analysis.
+  - Ultrasound and articulatory data processing: ultrasound data collection and analysis, electromagnetic articulography data collection and analysis, tongue contour tracking, pose estimation, vocal tract variable analysis.
   - Biofeedback and clinical methods: ultrasound biofeedback, visual-acoustic biofeedback, acoustic phonetics, single-case experimental and randomized controlled trial designs.
   - Machine learning and speech signal processing: PyTorch, supervised and transfer learning, foundational audio models, multitask learning, acoustic-to-articulatory speech inversion, forced alignment, speech recognition and synthesis.
   - Software engineering: Python and JavaScript, full-stack development, RESTful API design, automated testing, code review, Git, CI/CD.
