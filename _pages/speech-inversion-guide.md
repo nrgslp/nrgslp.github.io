@@ -264,13 +264,17 @@ One way to sanity-check output on a few files: load the trajectories in a tool l
 <details markdown="1">
 <summary>Citing the Speech Inversion Service</summary>
 
-If you use this service in published research, please cite at least the following papers:
+**Required citations**
+
+If you use this service in published research, please cite both of the following papers:
 
 > Benway, N. R., Tabatabaee, S., Wang, D., Munson, B., Preston, J. L., & Espy-Wilson, C. (2026). Perceptual ratings predict speech inversion articulatory kinematics in childhood speech sound disorders. *Journal of Speech, Language, and Hearing Research*, 69(2), 541–561. https://doi.org/10.1044/2025_JSLHR-25-00515
 
 > Tabatabaee, S., Boyce, S., Oren, L., Tiede, M., & Espy-Wilson, C. (2025). Enhancing Acoustic-to-Articulatory Speech Inversion by Incorporating Nasality. *Proc. Interspeech 2025*, 325–329. https://doi.org/10.21437/Interspeech.2025-2387
 
-**References**
+**Additional references (background reading; not required citations)**
+
+The works below are the background for the methods behind the service. They are listed for reference only and are separate from the two required citations above; cite them as appropriate to your own work.
 
 - Attia, A. A., Siriwardena, Y. M., & Espy-Wilson, C. (2024). Improving speech inversion through self-supervised embeddings and enhanced tract variables. *2024 32nd European Signal Processing Conference (EUSIPCO)*, 306–310.
 - Browman, C. P., & Goldstein, L. (1992). Articulatory Phonology: An overview. *Phonetica, 49*(3–4), 155–180.
