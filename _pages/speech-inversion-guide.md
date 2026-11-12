@@ -166,7 +166,7 @@ Step 1 — Prepare your audio files
 - If you have just one recording, you can upload the single `.wav` file directly; no zipping needed.
 - For multiple files, collect all `.wav` files for a batch into one folder on your computer, then compress that folder into a single ZIP file:
 - On Windows: Right-click the folder → *Send to* → *Compressed (zipped) folder*. On Mac: Right-click the folder → *Compress*
-- The ZIP file can contain up to several hundred files. Each file will be processed separately.
+- A single upload can contain up to 1,000 `.wav` files; for larger collections, split them into several ZIP files and submit each separately (see *Usage Limits* below). Each file will be processed separately.
 
 Step 2 — Complete the REDCap submission form
 
@@ -181,6 +181,23 @@ Step 3 — Wait for your results
 
 - Processing time depends on the number and length of files in your batch, as well as the length of the job queue. You will receive an email when your results are ready, typically within one hour. Note that the first job of the day takes a little longer as the system wakes up.
 - The email will contain a download link for a ZIP of your result files. This link is valid for 7 days. After 7 days, the results are automatically deleted from our servers in accordance with our data retention policy.
+
+</details>
+
+---
+
+<details markdown="1">
+<summary>Usage Limits</summary>
+
+To keep the service available to everyone for as long as funding allows, there are limits on how much can be processed:
+
+- Per upload: up to 1,000 `.wav` files in one ZIP. For larger collections, split them across several ZIP files.
+- Per researcher: up to 15,000 files per calendar month (UTC). The count resets on the 1st of each month. Files that fail validation (for example, an invalid WAV) do not count toward your total.
+- Shared monthly capacity: the service also has a monthly processing capacity shared across all researchers (total number of files and total minutes of audio). If it has been used up, new submissions are declined until the 1st of the next month.
+
+If a submission would exceed one of these limits, it is not processed, and you will receive an email explaining which limit was reached. Your submission can be resubmitted after the limit resets (or split into smaller uploads, for the per-upload limit).
+
+If you need a higher monthly limit for a larger project, email Nina Benway to request one.
 
 </details>
 
@@ -220,6 +237,9 @@ For NPY files, the channel order is `nasalance`, `PER`, `APER`, `F0`, `LA`, `LP`
 
 *My email is not on the Speech Inversion Service allowlist.*
 Email Nina Benway to request access. Please note that should demand outpace the available funding to run the website, priority access may be given to clinical researchers studying communication disorders.
+
+*I received a message about a monthly limit or the service's shared capacity.*
+Your submission was not processed because it would exceed your monthly file limit, the per-upload limit, or the service's shared monthly capacity (see *Usage Limits* above). The limits reset on the 1st of each month (UTC), after which you can resubmit. To request a higher limit, email Nina Benway.
 
 *I received an error for one of my files.*
 The email summary will tell you which file(s) failed and why. Common reasons:
